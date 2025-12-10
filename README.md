@@ -1,1 +1,2 @@
-# OOP_andrian_popov
+Eesnimi Perenimi OOP õppeaine ülesannete repositoorium.
+2025
